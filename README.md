@@ -91,6 +91,12 @@ The project uses the following NuGet packages:
   - GitHub: https://github.com/npapnet/OpenVOGEL
   - Download and install separately for full solver functionality
 
+## Quick Download
+
+**Download the complete project as a zip file:** [AxialCompressorDesigner_v1.0.zip](AxialCompressorDesigner_v1.0.zip)
+
+This zip file contains all source code, documentation, and project files ready to be opened in Visual Studio.
+
 ## Building the Project
 
 ### Using Visual Studio
