@@ -61,7 +61,7 @@ namespace AxialCompressorDesigner
             var settings = new OpenTK.WinForms.GLControlSettings
             {
                 APIVersion = new Version(3, 3),
-                Profile = OpenTK.Windowing.Common.ContextProfile.Compatability
+                Profile = OpenTK.Windowing.Common.ContextProfile.Compatibility
             };
             
             glControl = new GLControl(settings)
